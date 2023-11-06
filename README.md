@@ -1,5 +1,5 @@
 # tweetcard
 
-This is an example of a twitter cart
+This is an example of a twitter card
 
-![Alt Text](twittercard.gif)
+![](twittercard.gif)
