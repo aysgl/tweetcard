@@ -1,3 +1,5 @@
 # tweetcard
 
-[<img src="twitter.mov" width="50%">]
+This is an example of a twitter cart
+
+[<img src="twittercard.gif" alt="twitter card">]
